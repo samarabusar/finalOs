@@ -1,0 +1,6 @@
+3      # Context Switch Time (milliseconds)
+5      # Quantum for Round-Robin Scheduling (milliseconds)
+1 0 10 # Process 1: PID = 1, Arrival Time = 0, Burst Time = 10
+2 2 5  # Process 2: PID = 2, Arrival Time = 2, Burst Time = 5
+3 4 2  # Process 3: PID = 3, Arrival Time = 4, Burst Time = 2
+4 6 1  # Process 4: PID = 4, Arrival Time = 6, Burst Time = 1
